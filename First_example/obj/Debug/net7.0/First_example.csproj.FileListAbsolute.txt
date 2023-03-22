@@ -1,0 +1,15 @@
+/Users/olga/Desktop/I am programer/C#Start/First_example/bin/Debug/net7.0/First_example
+/Users/olga/Desktop/I am programer/C#Start/First_example/bin/Debug/net7.0/First_example.deps.json
+/Users/olga/Desktop/I am programer/C#Start/First_example/bin/Debug/net7.0/First_example.runtimeconfig.json
+/Users/olga/Desktop/I am programer/C#Start/First_example/bin/Debug/net7.0/First_example.dll
+/Users/olga/Desktop/I am programer/C#Start/First_example/bin/Debug/net7.0/First_example.pdb
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.csproj.AssemblyReference.cache
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.AssemblyInfoInputs.cache
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.AssemblyInfo.cs
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.csproj.CoreCompileInputs.cache
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.dll
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/refint/First_example.dll
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.pdb
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/First_example.genruntimeconfig.cache
+/Users/olga/Desktop/I am programer/C#Start/First_example/obj/Debug/net7.0/ref/First_example.dll
